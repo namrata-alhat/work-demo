@@ -1,2 +1,3 @@
 # work-demo
-Official work git repo
+Official Linux work git repo
+This is my first Git work
